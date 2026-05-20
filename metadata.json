@@ -1,0 +1,6 @@
+{
+  "name": "SkillSpark",
+  "description": "Gamified micro-learning app to learn Excel, AI, Coding, and other professional skills in 5-10 minutes a day, with a smart AI coach powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
